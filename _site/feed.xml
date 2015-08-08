@@ -7,14 +7,14 @@
     <atom:link href="http://izmajlowiczl.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Flake it till you make it</title>
+        <title>Automate Creation Of Jekyll Blog Post Files</title>
         <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          
+          Welcome to re-launch of my blog. I hope this time I will do better job and find motivation and enough time to create new content more frequently. For new launch I decided to try out Jekyll. Why? Mostly because of its simplicyty. The way Jekyll is handling post creation is...
         </description>
-        <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://izmajlowiczl.github.io/2015-02-26-flake-it-till-you-make-it</link>
-        <guid isPermaLink="true">http://izmajlowiczl.github.io/2015-02-26-flake-it-till-you-make-it</guid>
+        <pubDate>Sat, 08 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://izmajlowiczl.github.io/2015-08-08-Automate-creation-of-Jekyll-blog-post-files</link>
+        <guid isPermaLink="true">http://izmajlowiczl.github.io/2015-08-08-Automate-creation-of-Jekyll-blog-post-files</guid>
       </item>
     
   </channel>

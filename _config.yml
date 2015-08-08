@@ -63,10 +63,12 @@ google_analytics: "UA-66101940-1"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: /:year-:month-:day-:title
 paginate: 5
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
